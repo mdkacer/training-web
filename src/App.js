@@ -2,13 +2,11 @@ import React from 'react';
 
 import './App.css';
 
+import DiaryCard from './components/DiaryCard/DiaryCard'
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Hello Demo</h1>
-      </header>
-    </div>
+    <DiaryCard />
   );
 }
 

@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+//import Diary from './containers/Diary/Diary';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
